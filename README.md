@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shewarrior
-- 👀 I’m interested in cybersecurity and game design.
-- 🌱 I’m currently learning Python and C++.
+- 👀 I’m interested in database design and management as well as data analysis and visualization.
+- 🌱 I’m currently learning SQL and PowerBI
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
