@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shewarrior
+- 👋 Hi, I’m @cattagecore
 - 👀 I’m interested in database design and management as well as data analysis and visualization.
 - 🌱 I’m currently learning SQL and PowerBI
 - 💞️ I’m looking to collaborate on anything!
